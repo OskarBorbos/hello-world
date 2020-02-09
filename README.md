@@ -6,4 +6,6 @@ Oskar Borbos
 Född och uppvuxen i Gävle
 
 Studerar Java på Academy
-Bor i Lund tillsammans med Matilda.
+
+Inne på vecka 4 av 12.
+Ska börja lära oss Git nu.
